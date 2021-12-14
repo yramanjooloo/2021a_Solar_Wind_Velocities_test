@@ -1,0 +1,7 @@
+Each image was processed through IDL. 
+
+The processed variables, including the final solar wind velocity results are stored as individual .sav files for each image. 
+
+The .sav files are stored under the observer location. Only STEREO B data was successfully analysed for comet C/2011 L4 (PANSTARRS).
+
+To produce a plot, the solar wind velocities must be obtained from each image OR use the concatenated solar wind velocities in the SW_results directory. 
