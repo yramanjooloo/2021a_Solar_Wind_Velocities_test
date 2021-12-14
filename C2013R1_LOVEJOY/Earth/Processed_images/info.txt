@@ -1,0 +1,10 @@
+Each image was processed through IDL. 
+
+The processed variables, including the final solar wind velocity results are stored as individual .sav files for each image. 
+
+The .sav files are stored under the observer location. Only data from Earth was successfully analysed for comet C/2013 R1 (PANSTARRS).
+
+Images were obtained from amateur astronomers and Y.Ramanjooloo (author) and K. Birkett from the Isaac Newton Telescope for the analysis.
+
+To produce a plot, the solar wind velocities must be obtained from each image **OR** use the concatenated solar wind velocities in the SW_results directory. 
+This is not currently available for C/2013 R1 (Lovejoy) but will be made available soon.
